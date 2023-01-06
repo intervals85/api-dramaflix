@@ -5,11 +5,11 @@
       "select_backup_ads": "",
 	  "initialize_sdk": "",
       "initialize_sdk_backup": "",
-      "main_ads_banner": "ac8f939ea4551f85",
+      "main_ads_banner": "b6ef6224441c904d",
       "backup_ads_banner": "",
-      "main_ads_intertitial": "844a1d643da66ea7",
+      "main_ads_intertitial": "6f8d4ca57a04b105",
       "backup_ads_intertitial": "",
-      "main_ads_native": "7721922928a3c0ee",
+      "main_ads_native": "68c5d5d6bcaa7ebe",
       "backup_ads_native": "",
       "main_ads_reward": "ede9af787b443c30",
       "backup_ads_reward": "",
@@ -24,7 +24,7 @@
       "base_license_key": "",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
-      "show_fake_home": "0",
+      "show_fake_home": "1",
       "login_status": "false",
 	  "config": "aHR0cHM6Ly9hcGkuZHJhbWFmbGl4Lm9uZS9hcGkv"
     }
